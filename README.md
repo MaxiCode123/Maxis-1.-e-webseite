@@ -24,5 +24,5 @@
 <meta name="viewport" content="width=device-width">
 <p/>
 <p>
-<title></title>
-<p/>
+
+   <p/>
